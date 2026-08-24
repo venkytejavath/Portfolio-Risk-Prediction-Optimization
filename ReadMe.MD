@@ -54,8 +54,8 @@ against the trained models.
 
 | Model | Mean Absolute Error |
 |---|---|
-| Random Forest | 3.06% |
-| XGBoost | 2.95% |
+| Random Forest | 0.0305 |
+| XGBoost | 0.0295 |
 
 Training data ends 2025-12-30; validation data spans 2026-01-01 to
 2026-06-30, so this is a genuine test of generalization to a period the
